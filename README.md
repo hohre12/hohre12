@@ -1,7 +1,14 @@
 <!--### Hi there 👋-->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=_hexcode&height=300&section=header&text=welcome&desc=Jaewon's%20GitHub%20Profile&descSize=20&descAlign=59&descAlignY=40&fontSize=90)
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h3>🔥SNS List🔥</h3></div>
+<div align=center>
+  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/DevBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+</div>
+
+<div align=center><h3>📚 STACKS</h3></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
@@ -40,12 +47,7 @@
 <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 -->
 
-<div align=center><h1>🔥SNS List🔥</h1></div>
-<div align=center>
-  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/DevBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-</div>
+
 
 
 
