@@ -50,12 +50,13 @@
 
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hohre12&layout=compact&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hohre12&layout=compact&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api?username=hohre12&show_icons=true&theme=tokyonight">
 
-![Jaewon's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=hohre12)
+
 	
 <!--
+![Jaewon's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=hohre12)
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
