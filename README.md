@@ -40,14 +40,10 @@
 <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 -->
 
-
-
-
-
-
-
-<img src="https://img.shields.io/badge/Vuejs-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Vuejs-white?style=flat-square&logo=Vue.js&logoColor=#4FC08D"/></a>
+SNS List
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=instagram&logoColor=#E4405F"/></a>
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/facebook-white?style=flat-square&logo=Vue.js&logoColor=#4FC08D"/></a>
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/DevBlog-white?style=flat-square&logo=Vue.js&logoColor=#4FC08D"/></a>
 
 
 
