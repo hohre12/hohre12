@@ -40,10 +40,13 @@
 <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 -->
 
-SNS List
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/DevBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<div align=center><h1>🔥SNS List🔥</h1></div>
+<div align=center>
+  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/DevBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+</div>
+
 
 
 
