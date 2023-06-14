@@ -3,9 +3,9 @@
 
 <div align=center><h3>🔥SNS List🔥</h3></div>
 <div align=center>
-  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/DevBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://www.instagram.com/b._.jaewon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/bae.jaewon.7" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="https://velog.io/@hohre12" target="_blank"><img src="https://img.shields.io/badge/DevBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </div>
 
 <div align=center><h3>📚 STACKS</h3></div>
