@@ -51,7 +51,7 @@
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hohre12&layout=compact&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api?username=hohre12&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=hohre12&show_icons=true&theme=cobalt">
 
 ![Jaewon's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=hohre12)
 	
