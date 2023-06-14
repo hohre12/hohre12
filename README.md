@@ -41,9 +41,9 @@
 -->
 
 SNS List
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/facebook-white?style=flat-square&logo=Vue.js&logoColor=#4FC08D"/></a>
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/DevBlog-white?style=flat-square&logo=Vue.js&logoColor=#4FC08D"/></a>
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/DevBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 
 
